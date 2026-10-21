@@ -1,0 +1,5 @@
+.env
+inf/
+Uploaded_bots/
+_pychache_/
+*. db
